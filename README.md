@@ -2,6 +2,8 @@
 Problem statement
 Create an app to manage albums.
 
+# Note - Kindly check the structured code file.
+
 
 Features (No need for extra features, just make the listed features)
 Fetch and show albums from the api - https://jsonplaceholder.typicode.com/albums
